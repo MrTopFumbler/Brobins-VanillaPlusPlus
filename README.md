@@ -9,6 +9,7 @@ Feel free to create forks or suggest additions :)<br>
 ## Features :
 - Press V to configure Voice Chat (Simple Voice Chat)
 - Hold Alt to build easily (Effortless Structure)
+- Crouch while using an axe to instantly cut an entire tree (FallingTree)
 - Craft gliders (Hang Glider) and airplanes (Immersive Aircraft) to get around faster
 - Build ships and become a true pirate (Simple Ships)
 - Build crazy farms and contraptions (Create + Add-ons)
