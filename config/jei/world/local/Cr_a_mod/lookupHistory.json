@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:water"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exposure:developed_black_and_white_film"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exposure:developed_color_film"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

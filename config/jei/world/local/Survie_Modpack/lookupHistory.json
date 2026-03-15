@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"yyzsbackpack:gold_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"yyzsbackpack:netherite_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"yyzsbackpack:diamond_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"yyzsbackpack:iron_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rusticdelight:calamari_slice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rusticdelight:calamari"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"brewinandchewin:beer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"moredelight:potato_salad"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"moredelight:omelette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"brewinandchewin:vegetable_omelet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"moredelight:chocolate_popsicle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rusticdelight:chocolate_coffee"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rusticdelight:coffee"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

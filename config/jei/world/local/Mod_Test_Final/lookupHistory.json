@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"smallships:bamboo_drakkar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:crafting_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"smallships:sail"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"smallships:oak_drakkar"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
