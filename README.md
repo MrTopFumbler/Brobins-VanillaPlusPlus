@@ -1,7 +1,10 @@
-# Brobin's Vanilla++
+# Brobin's Vanilla++ (Beta)
 A simple, vanilla-like modpack for NeoForge Minecraft 1.21.1
 It is designed around exploration and building, and is filled with fun gameplay additions and QoL features.
 Feel free to create forks or suggest additions :)
+
+**This modpack was created for fun as a quick project, everything is subject to a lot of change.**
+**It will not and should not be published on CurseForge, ModRinth or any similar platform.**
 
 ## Features :
 - Press V to configure Voice Chat (Simple Voice Chat)
